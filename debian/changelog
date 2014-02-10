@@ -1,3 +1,9 @@
+xchat (2.8.8.1) debian; urgency=low
+
+  * Bumped version to include LMDE config
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 10 Feb 2014 11:46:58 +0000
+
 xchat (2.8.8-4linuxmint2) olivia; urgency=low
 
   * Linux Mint default config
