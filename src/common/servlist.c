@@ -913,7 +913,7 @@ servlist_load_defaults (void)
 
 	net = servlist_net_add ("Linux Mint Server", NULL, FALSE);
  	servlist_server_add (net, "irc.spotchat.org");
- 	net->autojoin = strdup (_("#linuxmint-chat,#linuxmint-help"));
+ 	net->autojoin = strdup (_("#linuxmint-chat,#linuxmint-debian"));
  	net->flags |= FLAG_AUTO_CONNECT;
 
 	while (1)
